@@ -1,6 +1,6 @@
 ### Навигация по ключевым репозиториям:
 
-• [renzhin/recipe-keeper](https://github.com/renzhin/recipe-keeper)<br>
+• [renzhin/recipe-keeper](https://github.com/renzhin/recipe-keeper) <b>Агрегатор рецептов Recipe Keeper</b><br>
 Агрегатор рецептов с возможностью подписаться на авторов. Есть функционал добавления рецептов в избранное, а также формирование шоплиста + выгрузки списка покупок.<br>
 Разработал Backend с нуля на основе готовой документации к API + готовый фронт на React.
 Настроил автоматизацию деплоя через GitHub Actions.<br>
@@ -9,7 +9,7 @@
 ***
 <br>
 
-• [renzhin/api_miniblog](https://github.com/renzhin/api_miniblog)<br>
+• [renzhin/api_miniblog](https://github.com/renzhin/api_miniblog) <b>Проект API_MiniBlog</b><br>
 Совместно с [Иван Марченко](@IvanMarchenko69) и [Александр Бачинин](@WizardsNo) разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.<br>
 Стек технологий: Python, Django, DRF, Simple JWT, SQLite3
 ***
