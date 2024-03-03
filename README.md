@@ -1,9 +1,9 @@
 ### Навигация по репозиториям:
 
-• [renzhin/recipe-keeper](https://github.com/renzhin/recipe-keeper)
+• [renzhin/recipe-keeper](https://github.com/renzhin/recipe-keeper)<br>
 Агрегатор рецептов. Разработал Backend с нуля на основе готовой документации к API + готовый фронт на React.
-Настроил автоматизацию деплоя через GitHub Actions.
-Стек технологий: Python, Django, DRF, Djoser, Postgre SQL, Gunicorn, Nginx, Docker.
+Настроил автоматизацию деплоя через GitHub Actions.<br>
+Стек технологий: Python, Django, DRF, Djoser, Postgre SQL, Gunicorn, Nginx, Docker.<br>
 Ссылка на развернутый проект: https://recipe-keeper.renzhin.ru/ 
 ***
 
