@@ -15,7 +15,7 @@
 ***
 
 • [renzhin/api_miniblog](https://github.com/renzhin/api_miniblog) <b>Проект API_MiniBlog</b><br>
-Совместно с [Иван Марченко]([@IvanMarchenko69](https://github.com/IvanMarchenko69)) и [Александр Бачинин](https://github.com/WizardsNo) разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.<br>
+Совместно с [Иван Марченко](https://github.com/IvanMarchenko69) и [Александр Бачинин](https://github.com/WizardsNo) разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.<br>
 Стек технологий: Python, Django, DRF, Simple JWT, SQLite3
 ***
 
