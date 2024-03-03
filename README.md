@@ -9,7 +9,8 @@
 ***
 <br>
 
-Разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.
+• [renzhin/api_miniblog](https://github.com/renzhin/api_miniblog)<br>
+Совместно с [Иван Марченко](@IvanMarchenko69) и [Александр Бачинин](@WizardsNo) разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.
 Стек технологий: Python, Django, DRF, Simple JWT, SQLite3
 ***
 <br>
