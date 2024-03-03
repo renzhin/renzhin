@@ -1,6 +1,9 @@
 ### Навигация по репозиториям:
 
-[recipe-keeper](https://github.com/renzhin/recipe-keeper)
+• [recipe-keeper](https://github.com/renzhin/recipe-keeper)
+Веб приложение, с помощью которого пользователи смогут найти для себя подходящие рецепты приготовления еды, добаавить эти рецепты в избранное, а также подписаться на авторов наиболее полюбившихся им рецептов. Также проект дает возможность формировать список продуктов, необходимых для приготовления любимых блюд.
+***
+
 
 <!--
 **renzhin/renzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
