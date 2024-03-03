@@ -23,6 +23,11 @@ Telegram-боты: Отслеживание публикации своих ра
 Отправка на запрос пользователя случайных изображений животных.<br>
 Написал на Python несколько ботов, используя Client и Bot API сервиса Telegram.<br>
 Стек технологий: Python, python-dotenv, Telegram Bot и Client API
+***
+
+Автотесты для двух веб-приложений.<br>
+Написал автотесты на pytest и unittest для мини-проектов: сайта публикации новостей и агрегатора заметок.<br>
+Стек технологий: Python, Django, PyTest, Unittest
 
 <!--
 **renzhin/renzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
