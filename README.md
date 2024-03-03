@@ -5,8 +5,6 @@
 В процессе разработки<br>
 Стек технологий: Python, Django<br>
 ***
-<br>
-
 
 • [renzhin/recipe-keeper](https://github.com/renzhin/recipe-keeper) <b>Агрегатор рецептов Recipe Keeper</b><br>
 Агрегатор рецептов с возможностью подписаться на авторов. Есть функционал добавления рецептов в избранное, а также формирование шоплиста + выгрузки списка покупок.<br>
@@ -15,13 +13,11 @@
 Стек технологий: Python, Django, DRF, Djoser, Postgre SQL, Gunicorn, Nginx, Docker.<br>
 Ссылка на развернутый проект: https://recipe-keeper.renzhin.ru/ 
 ***
-<br>
 
 • [renzhin/api_miniblog](https://github.com/renzhin/api_miniblog) <b>Проект API_MiniBlog</b><br>
 Совместно с [Иван Марченко](@IvanMarchenko69) и [Александр Бачинин](@WizardsNo) разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.<br>
 Стек технологий: Python, Django, DRF, Simple JWT, SQLite3
 ***
-<br>
 
 Telegram-боты: Отслеживание публикации своих работ, а также работ коллег на GitHub.<br>
 Отправка на запрос пользователя случайных изображений животных.<br>
