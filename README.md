@@ -8,10 +8,16 @@
 Ссылка на развернутый проект: https://recipe-keeper.renzhin.ru/ 
 ***
 <br>
+
 Разработал REST API (DRF) для веб-приложения, агрегирующего отзывы пользователей по медиа-произведениям.
 Стек технологий: Python, Django, DRF, Simple JWT, SQLite3
 ***
 <br>
+
+Telegram-боты: Отслеживание публикации своих работ, а также работ коллег на GitHub.<br>
+Отправка на запрос пользователя случайных изображений животных.<br>
+Написал на Python несколько ботов, используя Client и Bot API сервиса Telegram.<br>
+Стек технологий: Python, python-dotenv, Telegram Bot и Client API
 
 <!--
 **renzhin/renzhin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
