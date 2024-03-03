@@ -19,9 +19,15 @@
 Стек технологий: Python, Django, DRF, Simple JWT, SQLite3
 ***
 
+• [renzhin/bot_homeworks](https://github.com/renzhin/bot_homeworks) <b>Бот для проверки статуса домашней работы</b><br>
 Telegram-боты: Отслеживание публикации своих работ, а также работ коллег на GitHub.<br>
 Отправка на запрос пользователя случайных изображений животных.<br>
 Написал на Python несколько ботов, используя Client и Bot API сервиса Telegram.<br>
+Стек технологий: Python, python-dotenv, Telegram Bot и Client API
+***
+
+• [renzhin/bot_homeworks](https://github.com/renzhin/bot_homeworks) <b>Бот для проверки статуса домашней работы</b><br>
+Telegram-бот, который умеет обращаться к API сервиса Практикум.Домашка и узнавать статус домашней работы<br>
 Стек технологий: Python, python-dotenv, Telegram Bot и Client API
 ***
 
