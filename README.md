@@ -2,8 +2,9 @@
 
 • [renzhin/486](https://github.com/renzhin/486) <b>Пет-проект</b><br>
 Веб-приложение, позволяющее каталогизировать имеющиеся в коллекции процессоры, а также собрать всю дополнительную информацию о возможностях разгона каждого экземпляра, на сколько он редок и за какую сумму и на какой площадке был куплен.<br>
-В процессе разработки<br>
+<span class="color: red"><strong>В процессе разработки<</strong>/span><br>
 Стек технологий: Python, Django, Bootstrap<br>
+Ссылка на развернутый проект: https://486.renzhin.ru/
 ***
 
 • [renzhin/recipe-keeper](https://github.com/renzhin/recipe-keeper) <b>Агрегатор рецептов Recipe Keeper</b><br>
