@@ -1,3 +1,11 @@
+### Мой стек технологий:
+
+![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFD700)
+
+### Связаться со мной:
+
+[![Telegram](https://img.shields.io/badge/-Telegram-F5F5F5?style=for-the-badge&logo=telegram&logoColor=090909)](https://t.me/renzhin)
+
 ### Навигация по ключевым репозиториям:
 
 • [renzhin/486](https://github.com/renzhin/486) <b>Пет-проект</b><br>
