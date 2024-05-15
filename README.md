@@ -1,6 +1,24 @@
 ### Мой стек технологий:
 
-![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFD700)
+![Python](https://img.shields.io/badge/-Python-4682B4?style=for-the-badge&logo=python&logoColor=FFFFFF)
+![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)
+![DTL](https://img.shields.io/badge/-DTL-092E20?style=for-the-badge&logo=django&logoColor=FFFFFF)
+![Django Rest Framework](https://img.shields.io/badge/-Django%20Rest%20Framework-FF0000?style=for-the-badge&logo=django&logoColor=FFFFFF)
+![Pytest](https://img.shields.io/badge/-Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=FFFFFF)
+![SQlite](https://img.shields.io/badge/-SQlite-003B57?style=for-the-badge&logo=sqlite&logoColor=FFFFFF)
+![Gunicorn](https://img.shields.io/badge/-Gunicorn-499848?style=for-the-badge&logo=Gunicorn&logoColor=FFFFFF)
+![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=FFFFFF)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=FFFFFF)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=Git&logoColor=FFFFFF)
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=GitHub%20Actions&logoColor=FFFFFF)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu%20Server-E95420?style=for-the-badge&logo=Ubuntu&logoColor=FFFFFF)
+
+![Adobe Illustrator](https://img.shields.io/badge/-Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=FFFFFF)
+![Adobe Photoshop](https://img.shields.io/badge/-Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=FFFFFF)
+![Inkscape](https://img.shields.io/badge/-Inkscape-000000?style=for-the-badge&logo=inkscape&logoColor=FFFFFF)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=FFFFFF)
+
 
 ### Связаться со мной:
 
